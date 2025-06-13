@@ -134,7 +134,7 @@ nslookup windows.ajaydns.local 127.0.0.1
 The following screenshot shows the execution of `nslookup` and `ping` commands to verify DNS configuration and network connectivity.
 
 ![DNS Test Screenshot](https://github.com/user-attachments/assets/ba70e70c-0efe-442b-9034-57474df154b1)
-![DNS Test Screenshot](https://github.com/user-attachments/assets/ba70e70c-0efe-442b-9034-57474df154b1)
+
 
 Common Issues & Fixes
 Destination host unreachable → Check LAN connectivity
