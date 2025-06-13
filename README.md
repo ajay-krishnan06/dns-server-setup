@@ -7,7 +7,7 @@ The setup allows a Windows machine to resolve custom domain names via the DNS se
 
 ## 📚 Table of Contents
 ```bash
-- [Objective](#objective)
+
 - [System Roles and IP Plan](#system-roles-and-ip-plan)
 - [Installation](#installation)
 - [DNS Zone Configuration](#dns-zone-configuration)
@@ -133,7 +133,9 @@ nslookup windows.ajaydns.local 127.0.0.1
 
 The following screenshot shows the execution of `nslookup` and `ping` commands to verify DNS configuration and network connectivity.
 
-![DNS Test Screenshot](C:/Users/LENOVO/Downloads/screenshot.png)
+![DNS Test Screenshot](https://github.com/user-attachments/assets/ba70e70c-0efe-442b-9034-57474df154b1)
+![DNS Test Screenshot](https://github.com/user-attachments/assets/ba70e70c-0efe-442b-9034-57474df154b1)
+
 Common Issues & Fixes
 Destination host unreachable → Check LAN connectivity
 Connection refused → Restart and check BIND9
